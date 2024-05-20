@@ -1,1 +1,1 @@
-# Litter Game
+# Lottery Game
